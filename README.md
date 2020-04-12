@@ -7,3 +7,7 @@ Pada folder bin, ketikkan perintah berikut di command line/terminal
 Windows : main.exe
 Linux : ./main
 ```
+
+## Contoh Hasil
+![alt text](https://raw.githubusercontent.com/annaelvira24/Tucil1Stima-ConvexHull/master/screen1.png)
+![alt text](https://raw.githubusercontent.com/annaelvira24/Tucil1Stima-ConvexHull/master/screen2.png)
